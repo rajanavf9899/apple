@@ -1,7 +1,7 @@
 // db.php
 <?php
 $host = 'localhost';
-$dbname = 'index.html/apple';  
+$dbname = 'htmlapple';  
 $username = 'root';  
 $password = '';  
 
